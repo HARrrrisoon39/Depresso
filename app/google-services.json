@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553663828647",
+    "firebase_url": "https://depresso-52e33.firebaseio.com",
+    "project_id": "depresso-52e33",
+    "storage_bucket": "depresso-52e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553663828647:android:7de9aee1d9db5d7c16c182",
+        "android_client_info": {
+          "package_name": "com.qwerty.depresso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553663828647-6v2ndi36n2c6avr04pvadjqe4j8b40k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwerty.depresso",
+            "certificate_hash": "94b5b535b497945aebc1e5612e04c4c445e324b6"
+          }
+        },
+        {
+          "client_id": "553663828647-nt37dm5vhsg4f91klgboglho9ebh9hfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITeuPl_lidYyXVfMqzS8PYWbCNfQOQnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553663828647-nt37dm5vhsg4f91klgboglho9ebh9hfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
